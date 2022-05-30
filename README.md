@@ -1,1 +1,1 @@
-This repository contains attempts on learning shell navigation
+shell redirections project
